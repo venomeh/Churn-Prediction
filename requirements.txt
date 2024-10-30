@@ -1,0 +1,9 @@
+streamlit 
+pandas
+numpy
+groq
+plotly
+xgboost
+lightgbm
+catboost
+scikit-learn

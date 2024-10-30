@@ -1,0 +1,4 @@
+env 
+venv
+churn.csv
+__pycache__
